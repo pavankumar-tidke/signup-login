@@ -1,0 +1,23 @@
+{
+  "name": "init",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "debug": "~2.6.9",
+    "express": "^4.17.1",
+    "http-error": "0.0.6",
+    "http-errors": "^1.8.0",
+    "jquery": "^3.6.0",
+    "jsdom": "^16.5.3",
+    "mongoose": "^5.12.9",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.7",
+    "pug": "^3.0.2"
+  }
+}
