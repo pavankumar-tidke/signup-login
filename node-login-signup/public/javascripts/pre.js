@@ -1,4 +1,0 @@
-
-$(function(){
-    $('.preLoader').addClass('none')
-}) 
